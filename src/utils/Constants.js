@@ -170,7 +170,7 @@ export const ABI = [
 
 export const RPC = 'https://data-seed-prebsc-2-s2.binance.org:8545'
 
-export const IPFS_GET_LINK = 'https://cloudflare-ipfs.com/ipfs/'
+export const IPFS_GET_LINK = 'https://ipfs.io/ipfs/'
 
 export const CONTRACT = '0xC04D5816c5E15fa706eb34205a8223e47dcDB32f'
 
