@@ -2,6 +2,7 @@
   <img src="https://hackerlink.s3.amazonaws.com/static/files/news_portal.png" width="500"/>
 </p>
 
+
 # Decentralized News Portal
 
 Decentralized News Portal on blockchain where everyone who has some news can share it by connecting their wallet to the portal and confirm the transaction.
